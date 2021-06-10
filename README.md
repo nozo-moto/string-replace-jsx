@@ -2,6 +2,7 @@
 ![npm](https://img.shields.io/npm/v/string-replace-jsx)
 [![GitHub stars](https://img.shields.io/github/stars/nozo-moto/string-replace-jsx)](https://github.com/nozo-moto/string-replace-jsx/stargazers)
 [![GitHub license](https://img.shields.io/github/license/nozo-moto/string-replace-jsx)](https://github.com/nozo-moto/string-replace-jsx)
+[![Node.js CI](https://github.com/nozo-moto/string-replace-jsx/actions/workflows/ci.yaml/badge.svg)](https://github.com/nozo-moto/string-replace-jsx/actions/workflows/ci.yaml)
 ## What 
 The `stringReplaceJsx` method returns a new string with some or all matches of a pattern.
 
